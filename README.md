@@ -13,7 +13,6 @@ This repository includes:
 - ✅ Sample program for gesture recognition
 - ✅ Pre-trained TFLite model for hand sign recognition
 - ✅ Labeled dataset for training hand sign recognition model
-- ✅ Jupyter notebook for training the model
 
 ---
 
@@ -47,10 +46,6 @@ You can test the hand gesture recognition demo using your webcam:
 ```bash
 python main.py
 ```
-
----
-
----
 
 ## 📌 Notes
 
